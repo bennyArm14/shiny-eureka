@@ -1,2 +1,2 @@
 # shiny-eureka
-Ideas y metas
+Ideas, backups and more.
